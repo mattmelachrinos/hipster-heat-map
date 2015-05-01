@@ -1,0 +1,561 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CuQB1gAAALzahO_BiTjPKD4Lp6a1rorMpsaR5FmDZSPx98bkTr4Ix9QrcGJQwXHztSwKEukUpoZIf64TUDtGAymTZKfyrTINaIjqHJRFqE7p5286EeF6Vq2_o-hL0fClb7NW0N3arDB-8td7Dj3jcJRyie5Ila5nndQRYyh2lt0tEbNd8wJXaDaQt6uA589fHTr_HbLfBCiYi3RpMJ6Drg5_sEmAGk1TTlrHPD0UNt6h2sz9sb6vAYqw60Gpo-ujmZ0u6BpBgvvLnr2GGpgueUcVv7QQX9Kn_5JWIxYdlGc7qj3T241eEhDVCmO9s-TuDoJisGeU-qijGhQC7-1QP7syBCtrjYgtDFj4vnVGSA",
+   "results" : [
+      {
+         "formatted_address" : "704 Broadway, New York, NY 10003, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728577,
+               "lng" : -73.993757
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "05f29a2cc87f76f5b29822b1606a18f03f666b0d",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdvBxjagaJelxUH9TXUiHgy3bjERgFvBOxAncbqQqq6Q0z8EREHApGiyaJnKcBmEgY1baHfqhNKrkEH5W2RS-PKomJWLS-wI543Pt5niRGjFpLSa-FFBu0eS6o75XzSjMtZnpjvFCp4JeOPpiXH46YhIQpLHPrGHV-qydYZuHanLh2xoU9kRwGFwkYoD1tW2hvv09C-60m-Y",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ01-AkppZwokRKgrHWenrMKk",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRkAAAAm16RwFqSYwm4ssFEtrOTnZAQTOUpJ3N6r_5lqJ-QtquQMuM4pKgp5JT7l8la-1BgHjPakuFkzLP0NGcDk-uurimG4blvjQ3IPcN_zF2r-ee433sJU2OTkLzjdAcYfepxkV1uRpbKuVWFtzFNKyd09RIQImVbwLFG73OqAAEyzGcdABoUNAAgmExTtlKjkKcpjcEkvX6TvCI",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "330 Newbury Street, Boston, MA 02115, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.348412,
+               "lng" : -71.08629500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "329247cdc7967e21bf109677aaa593e3b98b3ff1",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGbS2Ao8KIKpMHZaIGav_wVQKUw8Y8PPZDFzV0CwSrnSD4RNQaAXWhhYAanAuNSkSBk_5Iz1AGMHdZV0s7QVm9MCGNGAFGF4CheRTcpRdjU7yVNMtK4rPaog1U9u2BkQgBnlYQcjwIX2uQBseU7eEFxIQjt7BXu9SaFiAB2JeBshkrhoUWEIkRomUffWcAn4A5VkX0UwsaFo",
+               "width" : 1298
+            }
+         ],
+         "place_id" : "ChIJybCbRAV644kRUK3zJqRtsgQ",
+         "price_level" : 3,
+         "reference" : "CnRjAAAA-fBtRgBggVHl1pIkJ_e6yYZ6fcn3Nq_6Q8esKcoWoE3QoaOc7JBZOBzMKchggXxf28C_9i7CmQ04xMzzpY0CqdkFSyd2okeQYx-nABDOGyI58jo-OlE6_pUk1U2OdaUghTCJEFVLxaj7gnKeLXv-WRIQKTmIDtd3hZKfI_DjoJj5uhoUg9-In7R4oB7_QWfuE9RH5ndbltg",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "7726 Melrose Avenue, Los Angeles, CA 90046, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.083539,
+               "lng" : -118.358179
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "78abbe0792d78ba463a74be880b84a14d6a752aa",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1299,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApPNqSsZVgT7Crh6-cS-OTFnLJR9VdklnRUHGsqCCTrJbsfvW5o-3XvCIC5T8PGsyFfI8D4rTWX56olbYeR01BKxbxDGkamz1y_BIZANnWS0Uz4ifg4PLhY5s-fAXsx5FJOaj_ifb7ZmLp3S6mUU64BIQjUd292KWV-SMvsvEXu4RMRoUfZM6Qd5qn-ip-yw8n__2vrEgl90",
+               "width" : 1300
+            }
+         ],
+         "place_id" : "ChIJBUgyj82-woARHzmpSgnNwHk",
+         "price_level" : 3,
+         "reference" : "CnRjAAAA6-FfGUkLXDwoN8TJQI8Teibs5n9FApWedqjbuVQujOX4KoBhyLQqaDaUwUuJIOkKmz-h_83AnSlw8onpa629IhhHYlFYUIKzZPSA6rj80PN1ezwkyV6xjKzItHRit9SgCOYaNxTOAqRzWnz8g_joZBIQncotxX5rj6OHW7fr0xV76hoUp3jOexaOAqATbrYp7_w1gQdkO0Q",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "1030 3rd Avenue, New York, NY 10065, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.763183,
+               "lng" : -73.965796
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2a65f083bd38fce01511f5fb8fb8c8d31b71bbee",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6jc3kcLw-S9ivQB9NVUIpQ4XVsy1k1ND3PR3G4phB0G64nxOoDbQ8BsH4G1Dv37IxG7VBuO8cECCUbZ1APxBP1LileKqZJSagDUaEAFkyrH2JEAMAkxKUCbSWhBGl9GUPeTMFB5C4wD1W9gOJbvYnBIQX-0LFJS96IwPCLPJm7iXxxoUULODQKXCqmiMj5338aGpFYK1rcQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ_5-gJ-lYwokRoEOFL7DFPdc",
+         "price_level" : 2,
+         "reference" : "CnRkAAAAdvwmrhjlBdqwtEEO4iMfLKYgUOXMpFz9_CeID3IJjgsw3dzFnMAvavHe5kMaZyu573RjEys-sIPSEvlaxuuA90vViHpyhl1TVH1-5mbl6Es2wPQ4lGNTcoldiaLSzRzlgKMVoG05MFUg0uwt5sCFdRIQMJEcWYEQDouSAi55zEC5TxoUrGTVHqRTWEiWzqAL5DXYV04B2Bg",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "345 7th Avenue, New York, NY 10001, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.747987,
+               "lng" : -73.992486
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c9337097fd08c563856d3121d4dcd2102a1d5337",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAilapwX2RpOiVyo0F_LRXOmTuK7_RiWmhamY4VqoFS_e_DfnZY7VEIKeRgW8HsDWQZApSuWYBqWarZvm8SQ1zL77CtdA20MFQuUo3cNpHkIGbAjIgmbWqr29F2n15yzvs055yYbBiOvbOTnc1EZz1yhIQbcFtVv-GCpKAH7nkVQrDBBoUgtcVpTvsHiXT35J5ij0U1DIRRe8",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJgf5wo69ZwokRKFXzd-icQKA",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CnRkAAAAnu_3cVycbUJbcUTlwp1G5S3uaFslePPZ4Nf0r5mntmwqTFg2yFKGKSKcIV0sZ7xuMVi2piu6WsXdeNYQSRfu50Wk_bK6tWYZyhIousGpHndz5jmJM4z-aFdhvafnr8o9696ObCyIBp8y0EMOps2SVhIQrg9tdz5nQ-jzsZL6MsiQAxoUGWK78usZwXPjWyQTVzqtsKpLpbs",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "872 Granville Street, Vancouver, BC V6Z 1K3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.280437,
+               "lng" : -123.120868
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "77ecc217af96749ae494b257b203b9ec375c2500",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 548,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFiBbcJSt0B765LWVoNGHpIaTy5Rvjs7JAkF2qao0AY1rpHFFqAMrwIy3L63k-pboNVbv3wJx8RhhGqhTLWDuHybei3V3_-jGcpuV19JCwNqL9hnMeZMZhPBrxG-zP4s_EdrxAMpBP3BOL56o3fgVwxIQM_g_yyfAY0ogVGUcNlzyOBoUqWeeuYIAx4EKQ1Tjz_hgveigFBk",
+               "width" : 730
+            }
+         ],
+         "place_id" : "ChIJadJAzH9xhlQR6QjPKre-ups",
+         "price_level" : 3,
+         "reference" : "CnRkAAAAPoNBn9cMBJwTOI3qvJptHH74w_sDByyNrE62gVMcKjKHiKVUuFHRaJxIuxfZ_ZAhlvccZy6Q21St3EuRVBfuVgH_xqI5JjTzfrG1RgFD7x511XUnH01IyGll-IafmZsZ5xjd6pv7pid2v33arSBcGRIQ2CokKa5oQtzbx1RHIMM5wRoUuSuKugWLasTBv9r4GY0KPasgUsE",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "1665 Westheimer Road, Houston, TX 77006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.742574,
+               "lng" : -95.401754
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f87aa508ed3e3d46d220e2e2099a1b7a49c694cf",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJK4q2KprAQIYRezMdvjBW4Vk",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CnRjAAAAH9Z6soM6F9ECV_Gg0yisAbr5_tQEgiF7_JDWGbAiPdAA0dHhaMU_EGRkWjMhvEpttS5k0t5nvffAV5j26qiT9GcBzMIY5CZR-G08sf0lUU5vd9GSuSYJH85yIqO_07A6swGGsYyFB83r2EUPQXpLzBIQcycKaYZb7ho0KSkeT-uBxRoUbHp0SdOrTDlGSFXKJbX9sw4LIPw",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "121 Spring Street, New York, NY 10012, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723906,
+               "lng" : -74.000114
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "29acd2adce078d5646cdbb852023791be4ec83d5",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAr6fp99AqoWaF4amdmjWGeuZcWSUluLr3lmr7SVuBi4budRBY7ScVhrDhnIBwkZhra6SoNcZe9nS7ORmy29L0kObBRp7kGwI-vPhjF0EpC_1kc8jdcBZDsBOm7qKC2i64_J4RXWyxDEYbaswjOXXwmBIQME68JNQ5dL__6GA7zGiX-hoUCROvr9p4a7XmmNjnkxrRkS4fUXY",
+               "width" : 1298
+            }
+         ],
+         "place_id" : "ChIJG0Blpo5ZwokRCMVjqzVthdI",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRkAAAAnvBV0nK1U_UgLWlpOjdFzo9R-3ddMk-zUt3Gxg5WMip11XkOzXnYQGp4YjyryPD9stLRv3NRXle42nLCa5-yLRl3Q0Q_q7eYnWk3djmAHg9VQhKDeqWIbEHmbH6EjnYh458s0W6i8rxujwF09vL8bBIQz234KpVIhe_h3L8eKI-k6hoUI1pxR5RT3fncHLEF6izh6niD27Y",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "142 5th Avenue, New York, NY 10011, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739253,
+               "lng" : -73.991567
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "920bb8ceabdac6d415ad82723d579bc0d91179f3",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZWI9JWtXhl5z4YG8Ypy2-ffb_HnOhWTZE5H6pr-VaJ1iD6kefUCF-qyY9GNrN83hmVuds__XUa7G3qGd10_gqMENHMf8-N9SGqLHsAcJiXsti8SKCvw01OX77EM47qc9iPrNvpsuwiUq7zPddRwWGxIQm8pCpB1EHo6Y96X3teC16RoUsh6o3G4Z5bK0rZF4W4xyySJu9Dc",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJOzWLqaNZwokRK990g_P2pic",
+         "price_level" : 3,
+         "reference" : "CnRjAAAAl2bENi55sXTSn55sSzH6AhVpR5VgK_f1WvhyjWGvmVjqCPK9M0KzSUy5pZNY-pMAN6wKSdE1OoieYXQnMsZm1cjBuaTOblC7zqbxlyFY5-s7N-2SxJspEf_o_fndKiq1RIgCfWqQRGC3NKJT-QpgyxIQ6ebluRN11hcHEBf4y-sGIxoU6zk5z86mFHQeMuG9wud6O8EwAwA",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "183 East Houston Street, New York, NY 10002, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722521,
+               "lng" : -73.988112
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "eba94b1676f1cc2beb6d19bc7cc577ab4a3c14d0",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJGyDJ_2zj5VjwNDYx62idkL_mOwMR2N0hV4wlYHFSwSW0-MHjzpfnsCEEHCUiFmQ5Rs0iMQkqe5SO0MVpKOmdisntpx6nffTO5LOZFep_p4OTrN_roaSMc_3H2PouAtJLKprIUi0wJ-YhDsPfEPswBIQI6mS-gh47_HizPTIutBtohoU7ANLXOXOuj4qM2hFwCZA9SXeUvo",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJS9SWkoNZwokRAsRrSmMQyGQ",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRjAAAAGCG_SXGQSgLPxyZXHLBmN6NV-zEF28fy1Roxugh-kc47CkHZnpO6-KG8zN7P6y4cra_zcuD7MDkfH7bcx7h1PLoApn-gMru4lv2AQZn508Qp2GVp6FLfwVXXhCXjHzJfhNCddJ4jzhtO_Ek4VCjq1hIQH8ZuA4th-2k3gCh84AWDvRoUy_ZgTeYfQ6cOCTmh6fFAAgG9SFc",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "104 North 6th Street, Brooklyn, NY 11211, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718376,
+               "lng" : -73.960565
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e49bbda7f8c2461e3a7b3934fecc67252a87b615",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJX5HuQmdZwokRa8GmOluVxig",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRjAAAAbFnuHAcMEfpQp9gaF_BQEGk3ArPJEM2LbupRoOHde5BLVgFxM3gU6KmGyd3YSTlI3TqpjFrA-UY-FvWYwLRlFIn9UW0f5Y0UwQFnOxXQHBzXluez4wo0k0xO1xgsMx6hlle6DVbNTqL0STrWZKm81xIQKzjXsS8ybsmMfcox1AwiyRoUoWjwCrlQVDFRU7Kxl9P0mVXWRUU",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "4345 University Way Northeast, Seattle, WA 98105, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.661118,
+               "lng" : -122.313402
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "175b528fe14f03e99a3fd3996ef12743b4dc8c72",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1299,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAgEVBWcYg1mmvqBcM9FV8XCuz4cfOnJs79R9CMSv2ae6GoeIR_8gqeJ2JMvLdWyKCddOTcvpCDLRKX0HLBKLo6Yq5sRvJwqrbfdOhykQIi2H4UNMwDIYNxB0qGV0NTF5386koBfvHMo9-bpUxLtIcjhIQqeLr_IYtbeKXUXXdYuazRBoU7k_usN_uk4O0Tr0MrUUXg77waVc",
+               "width" : 1300
+            }
+         ],
+         "place_id" : "ChIJuz2P4IoUkFQRtVlTfLQBSrA",
+         "price_level" : 3,
+         "rating" : 3.6,
+         "reference" : "CnRkAAAAbr9jvNrlMG6bNES9uSyhSsIJYldOy_xuKUi-kLg_kXn0YmJLZDRxmF9kvEKS73Rv4IZ0jLRzmZ09IdIcuCmcp9XPzjaKz3_CBFCLyPK51jbxRTlfQgam4TJl9n1bOiIqmIezMhe0xjylpWsxVKiR1xIQzVdNhArc8M5S7feouYvqyxoU-ro-ZhXfx_5lbCsu-MevjS3O0Uk",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "140 West Broadway, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717026,
+               "lng" : -74.008312
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9f5738099958b8d65b5233b05ce40fa2f13e5073",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwUYG1Xzebkw1x89cEj6iB6ikXKyaZ0M5qNC1nXwNtzQx1VchtcM3hJFbyphPmWVnbGMdG2PF1fNDqY45pCONIUr6Y-T3vZA7n4eEMWcqD-kmrFvpnyC5rH1DAWPh4DpfRuDiTVWS7QLn7jtjByPzBhIQxY4Zhm7lH2DtDcnB1bYtjhoUDjOZZFfFr-14pFpV8e8UUrgyvhI",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJnwXfox9awokRumrJJLpZFu8",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CnRkAAAAoX9JIPG4AMVo5GrdWJhzjxHU-uElh-iEX7t29GQX6ldqooKE6oS1dXyrefowmxHGH6_tr74U3gGieToNXVVndewqmcM5grgwOHIMY_4tFPnQe_uu7j8G3iR6K_0at2ie4uis4v9gKBFp01Codf1LxBIQ6k7he1kjllIf37YiPvG-4hoUezS2jnlaTnK5LBDAtLB61OdQZsc",
+         "types" : [ "clothing_store", "shoe_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "314 Flatbush Avenue, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.677148,
+               "lng" : -73.97274899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4b2aac29dac5e70aa850da76b5c68187d63a9d73",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAv6YrwjAoHBgsWVWfvqwC_59qtHD2rVSrVdvy9nlk9AqzNJvBXsM-lOoHhO6xTjI7IjlciwOlbNehjaSPQ51wF7zSqgPd5xTJuTp8k31AW3LFt07XFDtdJ36JyARnMoCOZ3Oegf7EWucR17Be_tbOLRIQeoO6-ioeoLTiCamkyrm5ZhoUVQ_Pt4Cd8FL1OAzNvid8VKEiw08",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJvz83iqhbwokRM7OJ3K4KWrE",
+         "price_level" : 2,
+         "reference" : "CnRkAAAAk8mev4U1C3TKll8VN6-UySle2bNzdWyEG8hrm7dTjGEW--OLp_CiphOVlGd-BN1d65zATI9OaLTbdaXhJ2-76i9YHgvzPmgwZWacQpXaCgB-PrmHg7GazZgcqCM6ZShwboQ4xKDtekkILaT4vtnX1xIQmQvYJa2_ZHzuLxDm34HohBoUrOUkgU10W8I-qRasiPZGuVGJcX8",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "121 East 23rd Street, New York, NY 10010, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.740037,
+               "lng" : -73.985367
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "85fc588abe34b0255aa8abeedf9b20e17b4b41f2",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_AjpP5V-czYFuJezH52izrledC-zcQcaepHdDGTTdocqn2b6dBkWGSjpY87lwNkryO-juGrhb_VVGwdQsyEUc7KVE2jmlmRwg35wHVccbNUcEODhnbXqQ2ANA1p9a6HMDivm_l7-gztuKHoYrn_eNRIQwtIA5X3jXvTZe8HLPVAmVBoU6dqoX0a1SfGcOGJboaz47zDsYec",
+               "width" : 1298
+            }
+         ],
+         "place_id" : "ChIJDXR82qBZwokRxjKtEedVQtE",
+         "price_level" : 3,
+         "reference" : "CnRkAAAAwZhJU9J-0DgqVF4BG1YS0scDzWYQI23AGY-IuCIqsBqkE6-1Hrp5x1Ze_479yklssRMkQzxGgCp8SkAxSTB2TunpMJYt1Avfp0AlQ7KmyLt55VGH0L83ZJKKhcUPmRrF-uSH1_3d9PyaNF-iWMs55BIQzP69U4FwCatadGvSQWpp4hoU_drZuwqPLXk3GRxxYBhFrw_NLOQ",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "3867 4th Avenue, San Diego, CA 92103, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.747932,
+               "lng" : -117.161338
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "50254d7ccd80c54b17204a5e7fd7b0d536e45f1d",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-v3i95GgUKMqRAckyj3R3FKzXcFfHz69F-ptFTStRPYymTX62lNbpTlOV_D_Y1zFJ9A3O1tLt2E_PUrZt_JPobIawLqNjF1-N5xafd-y8aT1rVtBp6lACVFzLZ1Odl5JEJMUEavyvKm2_0xSj-2wcRIQVmYBiZTvuDDLcvz4OeADtxoUk-1tInXqOnow3KKzmMlLxY04A6c",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ2xzKnNpU2YARa-vDkv6lVHY",
+         "price_level" : 3,
+         "reference" : "CnRjAAAAOXj5MzPJl4qEvMi-X-8I8RLIuyyvwrax6o_9NS6pNkzWQz_Sc0Q2TS0SksTEm6PZSSNSO8AisEt809tGOXdiOOZmTZDJQ6VwgQU4Qc4DzQ2tfPPKc0NJTjfjQyUwaT9cNxIS-rb4hL8npiDN2QdpHhIQtsVYRc3ax0QY8kq5ffTpFBoUbLHe03oGyXO7NO5pRrnjjZmXS2I",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "929 West Belmont Avenue, Chicago, IL 60657, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.939675,
+               "lng" : -87.652664
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9c7f11c01bda1c96621b48ad4a96f464c2772f24",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABYevXHZdicjCV9RC4WNOqzs_bDOA90m54_xKD3OzQLUxNYu4Dr9Z8aOfNaLFzxy4QpgAPyGqrGVVpyD1yq3u55_6EVZCFk6-UcyF6HaGbluruTJk5dlsxNWLv2a4G1IqxK-vWJi9ZyDYDDX0XkoyEBIQhB2eZhTviX1NYax8mgwphBoUbpufe-hoqabFhhDoLHvdUGMIq6M",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJlVkuUKnTD4gRI-qDTdx_fWM",
+         "price_level" : 3,
+         "reference" : "CnRjAAAAx5RiUa5jue5druQhZ08g6ScrKABH0mKIUuOgUu34oI4CaniZnhhwRihoBUrN7yFCd_xPLEav261i9Jw763001SXm2gCUSCL78qXqqvJ7XkO_a4x4dPzIuXvHvZzdX94K2uPMTz1jKs7XTDsN4Lo7DhIQr64a-Xo8zFfhSCoWru78GBoU3NGVpR5JH6esvcAfxbwSF8URSa4",
+         "types" : [ "store", "clothing_store", "establishment" ]
+      },
+      {
+         "formatted_address" : "200 Broadway East, Seattle, WA 98102, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.620037,
+               "lng" : -122.32065
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3a9db6cc36efe278ebc57607ea3faafd4318db08",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 288,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAV0SZB3QvSXKDswNAe48t3_2H4v9YxOOKk2aenpHJJzK-x6Uw-KaP5dJxChyZ0lqMnXOT-gLLjV86KvO1rbIt70r-Sd7FW6g_qlVmQFuzq9pgnO1RLC3fXf0Kt4yTr_u3HyPspzZKaeMl0Rpsr9FFRIQot7ZfqhAjccYmbyblSy-mRoUJKtv2DATfX5IM9FFq67Hwmfpii0",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJ66UmhDIVkFQREtnMPaSNsyg",
+         "price_level" : 3,
+         "reference" : "CnRjAAAAiA_hcvcCIex-gCMLkl5FVOGVMZtxqe9Zgpocx-laPUUDLPCUONv6WlDqb7J1-DNzobvR1oGGFmcbteoGZpZ8dpZDizy3ft4HOY4rfUo_IVmIlw1zMZszxZhk02BtxsU5HB3bRIDQDdTD0glXBnQvERIQFivjnI_ZcI2ROs4uqKtqhBoULXoAgyKz3ejxiuzzi-WHYAwcJac",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "1615 Haight Street, San Francisco, CA 94117, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.769544,
+               "lng" : -122.449053
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "115005618541007a78745275c5cd3010388faedc",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1299,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4pjp3juBr2lxRPG3N0q7IHzFHWptAXs9BoPO3xFVrCjQ7GA9M1ZzPGG-4MhCei30SXGZDRsh_OvXgAbktL0MgutsM31hy82qovlEBTcGIIy0MTVnYiiZR96oF2OiGARx7qHvw5CKiOK4JTlRvz38zRIQ7kpu1CL1ocpbAuI1ScmILBoUNcHDdhxRoDWb2vG90hxkFPnnUhg",
+               "width" : 1300
+            }
+         ],
+         "place_id" : "ChIJa8voBVOHhYARCChBOLIwryU",
+         "price_level" : 3,
+         "rating" : 3.2,
+         "reference" : "CnRjAAAALva58T6j610oInIfC-mpwlWTBx5kf7TSt_zkTIrMss5L-xSJ14sCI8ZyPvfPZYziwtcD5iF4wDoNQWPwFCNCGsKQpoQh_JZJs0OJ5yq2sBLqker66b9_ouW49qJ8Geq3vVoHKcBTHI1YDvTKdWosJxIQdFKfhl8iefGxDVqHJjaE0BoUDox41W_xZlwGPqF5lSLC-UNvoa4",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      },
+      {
+         "formatted_address" : "3 Carnaby Street, Carnaby, London W1F 9QG, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.512417,
+               "lng" : -0.137974
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "56dabee37841acc43d4938899fed1b3f0820d8a3",
+         "name" : "American Apparel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1299,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADwC987Zbs7jGACtHoE1k8qdCPti_pCUrGd0Zaa4vs0SmyWsVzVd6z39iKxXiMdsipDNOpew8KiaqAXEDM4LVmY5sCs1EJAr01pwLeSHLbl-BFLtGPj0SxGxRtvBr_Y9RwfdORnYXRIrpMnmcJQR8XRIQ3vgdLJd6Ow0YLmpNFex7ZhoUE1UVnD0GRfLMnPU8rrPHvkZyUxQ",
+               "width" : 1300
+            }
+         ],
+         "place_id" : "ChIJ5TYF_tQEdkgRcWKht1ZKCdI",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CnRkAAAAk8aUzAQvFVFqxW_wCPIZY5gCYR6sYGJmmWddT3nSM5jNYnoKOhxYtZ9H6o2RAyiToJWbZ_f8JrXTCIW51q6b-UWwhA6G5vvpZMQsSeGDA7M5royeQHI-XXFmJXRjvBvfOwI4NIoOckkINXTwqemBChIQ6ruZpb-4GF__UG-HfFO45hoUhBRVDhnALNI68LNp9pr05mPJrGo",
+         "types" : [ "clothing_store", "store", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
