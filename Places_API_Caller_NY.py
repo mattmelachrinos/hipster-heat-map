@@ -9,12 +9,12 @@ with open('keywords.txt', 'r') as f:
 		for word in f:
 			keyword = word
 			#for y in range()
-			url = "https://maps.googleapis.com/maps/api/place/textsearch/json?location=40.7211, -73.9823&radius=10000&query=" +  keyword + "&"  +"key=" + key
+			url = "https://maps.googleapis.com/maps/api/place/radarsearch/json?location=40.7211,-73.9823&radius=50000&keyword=" +  keyword + "&"  +"key=" + key
 
-			print keyword
+			print url
 			response = requests.get(url).text
 			output = json.loads(response)
 
-
+	
 			for result in output['results']:
 				output_file.write(str(result['geometry']['location']['lat']) + " , " + str(result['geometry']['location']['lng']) + "\n")
